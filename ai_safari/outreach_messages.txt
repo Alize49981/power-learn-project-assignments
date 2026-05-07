@@ -1,0 +1,70 @@
+---email 1---
+Warm & Appreciative (community-focused)
+Hello KAMANEH Team,
+
+I’ve been learning about your work supporting maternal and neonatal health in underserved communities, and I really appreciate how you reach mothers where access to care is limited.
+
+I’m building a simple SMS-based maternal health assistant that works on basic phones. It sends appointment reminders, nutrition tips using familiar foods like ugali, and guidance on danger signs—helping mothers stay supported between visits.
+
+I’d love to understand how you currently handle follow-ups with mothers—do you think SMS could help strengthen that?
+
+Warm regards,
+ali issak
+
+
+----email 2---
+2. Practical & Problem-Solving
+Hello PMHS Kenya Team,
+
+I understand that one of the toughest challenges in rural maternal health is maintaining consistent follow-ups after clinic visits.
+
+I’m working on an SMS-based assistant designed for basic phones that sends reminders, weekly guidance, and alerts about danger signs. It’s built to support mothers even when they are far from health facilities.
+
+I’m curious—how are follow-ups currently managed in your programs, and do you see gaps where something like this could help?
+
+Best regards,
+ali issak
+
+
+---email 3---
+3. Collaborative & Curious
+Hello Beyond Zero Team,
+
+Your work bringing maternal health services closer to communities through mobile clinics is inspiring.
+
+I’m exploring a complementary SMS-based tool that supports pregnant women between visits—sending reminders, simple nutrition advice based on local diets, and early warning signs to watch for.
+
+Since your programs already reach many women, I’d value your perspective—could a tool like this add value to what you’re already doing?
+
+Kind regards,
+ali issak
+
+
+---email 4---
+4. Short & Direct
+Hello MSI Kenya Team,
+
+I know many mothers in rural areas struggle with consistent access to care and timely information.
+
+I’m building a lightweight SMS-based assistant that works on basic phones—sending reminders, nutrition tips (like using local foods), and alerts on danger signs.
+
+Do you think something like this could fit into your current maternal health programs?
+
+Best,
+ali issak
+
+
+---email 5---
+5. Impact-Oriented & Visionary
+Hello Jhpiego Kenya Team,
+
+Your work in strengthening maternal health systems has a huge impact, especially in reaching underserved populations.
+
+I’m developing an SMS-based assistant that extends care beyond the clinic—supporting pregnant women with timely reminders, culturally relevant nutrition advice, and awareness of danger signs, all via basic mobile phones.
+
+My goal is to help bridge the gap between facility visits and day-to-day care.
+
+From your experience, where do you see the biggest gaps in continuous maternal support?
+
+Sincerely,
+ali issak

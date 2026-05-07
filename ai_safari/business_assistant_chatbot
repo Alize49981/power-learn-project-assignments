@@ -1,0 +1,23 @@
+import openai
+
+# Replace with your API key later
+openai.api_key = "YOUR_API_KEY"
+
+def generate_leads():
+    prompt = """
+    Act as a sales researcher.
+    Find 10 NGOs in Kenya focused on maternal health.
+    Include:
+    - Name
+    - Location
+    - What they do
+    """
+
+    response = openai.ChatCompletion.create(
+        model="gpt-4o-mini",
+        messages=[{"role": "user", "content": prompt}]
+    )
+
+    print(response['choices'][0]['message']['content'])
+
+generate_leads()
